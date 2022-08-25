@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@thakurganesh919](https://medium.com/@thakurganesh919)
 
-- 📫 How to reach me **Java**
+- 📫 How to reach me **thakurganesh2@gmail.com**
 
 - 📄 Know about my experiences [https://binayakthakur.github.io/resume/](https://binayakthakur.github.io/resume/)
 
